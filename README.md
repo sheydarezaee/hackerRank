@@ -1,1 +1,1 @@
-# hackerRank
+Javasript solutions to HackerRank problems
